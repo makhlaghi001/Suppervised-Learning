@@ -1,4 +1,4 @@
-### Module 12 Analysis Report
+# Module 12 Report 
 
 ## Overview of the Analysis
 
@@ -11,21 +11,13 @@ The purpose of this Anlysis was to take a highly imblanced credit lending data s
 * Explain what financial information the data was on, and what you needed to predict.
 
 The dataset would is a set of credit lending data set, which consists of 77,536 rows and 8 columns. The columns aras as follows:
-   
    loansize, 
-   
    Interest Rate, 
-   
    Borrower Income, 
-   
    Debt to Income, 
-   
    Number of Accounts, 
-   
    Deragatory Marks, 
-   
    Total Debt, 
-   
    Loan Status. 
    
 In this analysis we are predicting the result/outcome for loan status. This is to indicate if the model will be able to predict the creditworthiness of borrowers.
