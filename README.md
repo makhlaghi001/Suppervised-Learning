@@ -1,4 +1,4 @@
-# Assignment 12
+# Suppervised Learning
 ## Instructions
 
 This homework consists of the following subsections:
